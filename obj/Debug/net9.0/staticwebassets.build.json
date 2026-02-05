@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sp2ngarE60aLkotTwoPgI95Qm18RcYDYFRz/wB5a4LE=",
+  "Source": "dotnet-webapi-docker",
+  "BasePath": "_content/dotnet-webapi-docker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

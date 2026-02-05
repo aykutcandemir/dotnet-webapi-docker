@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6idh9+6m7Q=",
+  "success": true,
+  "projectFilePath": "/home/acandemir/playground/dotnet/dotnet-webapi-docker/dotnet-webapi-docker.csproj",
+  "expectedPackageFiles": [
+    "/home/acandemir/.nuget/packages/microsoft.aspnetcore.openapi/9.0.12/microsoft.aspnetcore.openapi.9.0.12.nupkg.sha512",
+    "/home/acandemir/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
